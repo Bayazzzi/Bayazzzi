@@ -27,6 +27,7 @@
 сколько осталось до её закрытия или до следующего открытия. Часовые пояса и
 переход на летнее время учитываются автоматически.
 
+- 🔗 Демо: [session-timer-five.vercel.app](https://session-timer-five.vercel.app)
 - 💻 Код: [github.com/Bayazzzi/session-timer](https://github.com/Bayazzzi/session-timer)
 - Стек: JavaScript, HTML, CSS
 
