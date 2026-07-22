@@ -21,12 +21,23 @@
 - 💻 Код: [github.com/Bayazzzi/telegram-booking-bot](https://github.com/Bayazzzi/telegram-booking-bot)
 - Стек: Python, aiogram 3.x, SQLite
 
+### ⏱️ Session Timer — мировые торговые сессии
+Живые аналоговые часы и таймеры пяти мировых торговых сессий (Веллингтон,
+Сидней, Токио, Лондон, Нью-Йорк): видно, какая сессия открыта сейчас и
+сколько осталось до её закрытия или до следующего открытия. Часовые пояса и
+переход на летнее время учитываются автоматически. Есть веб-версия и
+десктоп-приложение.
+
+- 💻 Код: [github.com/Bayazzzi/session-timer](https://github.com/Bayazzzi/session-timer)
+- Стек: JavaScript, HTML, CSS, Python (Tkinter)
+
 ## 🛠️ Стек
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
