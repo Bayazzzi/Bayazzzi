@@ -42,6 +42,7 @@ QR-код с логотипом, оформлением и рамкой с по�
 код тут же декодирует обратно и показывает, читается он или нет. Всё считается
 в браузере — ссылки и логотипы никуда не отправляются.
 
+- 🔗 Демо: [qr-code-generator-jade-eight.vercel.app](https://qr-code-generator-jade-eight.vercel.app)
 - 💻 Код: [github.com/Bayazzzi/qr-code-generator](https://github.com/Bayazzzi/qr-code-generator)
 - Стек: JavaScript, Canvas, SVG, qr-code-styling, jsQR
 
