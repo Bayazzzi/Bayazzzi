@@ -73,6 +73,50 @@ QR-код с логотипом, оформлением и рамкой с по�
 - 💻 Код: [github.com/Bayazzzi/kazakhstan-constitution](https://github.com/Bayazzzi/kazakhstan-constitution)
 - Стек: HTML, CSS
 
+### 🎓 Финансовая грамотность — обучающая платформа
+Бесплатный ресурс с короткими уроками по 10–15 минут, интерактивными заданиями
+и мини-тестами. Четыре трека: «Дети 7–12», «Подростки 13–17», «Взрослые-новички»
+и «Взрослые-продвинутые». Контент хранится в репозитории и проверяется схемами
+перед сборкой, прогресс гостя — в браузере, у вошедшего — в Supabase.
+
+- 🔗 Демо: [fin-learn-lime.vercel.app](https://fin-learn-lime.vercel.app)
+- Стек: Next.js 16, React 19, TypeScript, Tailwind CSS, Supabase, Zod
+
+### 🐷 Копилка — трекер челленджа накоплений
+PWA для челленджа «каждый день на 10 тг больше»: ставится на экран iPhone,
+присылает push-напоминания, считает долг за пропущенные дни и хранит прогресс
+каждого пользователя отдельно. Рассылку запускает pg_cron в Supabase.
+
+- 🔗 Демо: [kopilka-theta.vercel.app](https://kopilka-theta.vercel.app)
+- Стек: JavaScript, PWA, Web Push, Vercel Functions, Supabase
+
+### 🍽️ Семейное меню
+PWA, которое отвечает на вопрос «что готовим и что купить?»: меню на неделю с
+автоподбором блюд под бюджет, общий для семьи список покупок с учётом домашних
+запасов в реальном времени, учёт расходов и прогноз по меню.
+
+- Стек: Next.js, TypeScript, Supabase (Realtime, RLS), Vercel
+
+### 🚗 Top Drive — сайт автоинструктора
+Продающая страница для автоинструктора в Астане: форматы занятий, цены, акция,
+FAQ, SEO-разметка. Отзывы подтягиваются из 2ГИС скриптом и обновляются
+автоматически через GitHub Actions.
+
+- Стек: HTML, CSS, JavaScript, GitHub Actions
+
+### 🧑‍💼 HR Partner Kazakhstan — сайт HR-аутсорсинга
+Корпоративный сайт компании по HR-аутсорсингу и консалтингу: услуги по подбору
+персонала и кадровому делопроизводству для бизнеса.
+
+- Стек: HTML, CSS, JavaScript, Vercel
+
+### 🧪 QA Practice Stand — стенд для тестировщиков
+Flask-приложение с типичными сценариями (логин, регистрация, задачи, REST API)
+и автотестами на Pytest + Playwright, плюс шаблоны тест-кейсов и баг-репортов.
+
+- 💻 Код: [github.com/Bayazzzi/qa-practice-stand](https://github.com/Bayazzzi/qa-practice-stand)
+- Стек: Python, Flask, Pytest, Playwright
+
 ## 🛠️ Стек
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -83,6 +127,9 @@ QR-код с логотипом, оформлением и рамкой с по�
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ## 📊 GitHub
