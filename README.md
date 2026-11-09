@@ -9,7 +9,7 @@ Full-stack разработчик из Казахстана. Создаю акк
 анимированный фон, свечение под курсором, тёмная/светлая тема. Собрано без
 внешних UI-библиотек — только чистый CSS.
 
-- 🔗 Демо: [portfolio-rho-ten-c7t3equ7ji.vercel.app](https://portfolio-rho-ten-c7t3equ7ji.vercel.app)
+- 🔗 Демо: [portfolio-bayazi.vercel.app](https://portfolio-bayazi.vercel.app)
 - Стек: Next.js 14, TypeScript, CSS, Vercel
 
 ### 📈 Trading Assistant Pro — кокпит трейдера
